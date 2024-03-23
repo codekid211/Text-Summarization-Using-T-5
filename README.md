@@ -65,10 +65,10 @@ Multi-Document Summarization: Integrating models that can summarize multiple rel
 To set up and run this project locally, follow these steps:
 
 1. Clone the repository:
-  '**git clone https://github.com/codekid211/Text Summarization Using T-5**'
+  '**git clone https://github.com/codekid211/Text-Summarization-Using-T-5**'
 
-2. To generate summary
-   '**pyhton filename.py**'
+2. To generate a summary
+   '**python filename.py**'
 
 ## Contribution
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
